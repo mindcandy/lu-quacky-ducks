@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 58ecf2bfa337f4ac18fec74c6f20cc09
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: QuackyDucksArt2_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 42
+        width: 555
+        height: 469
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 359
+        width: 76
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 361
+        width: 76
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_3
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 462
+        width: 218
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_4
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 319
+        width: 236
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_5
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 232
+        width: 398
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 257
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_7
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 155
+        width: 279
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_8
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 157
+        width: 116
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_9
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 42
+        width: 557
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_10
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 281
+        width: 399
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_11
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 257
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_12
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 380
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: QuackyDucksArt2_13
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 380
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
